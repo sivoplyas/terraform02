@@ -13,3 +13,18 @@
 ![zadanie-17](https://github.com/user-attachments/assets/d6f9c575-cd5f-430a-a5ef-85a4c0f87a84)
 
 Параметры preemptible = true (прерываемая) и core_fraction=5 (минимальный процент использование CPU) позволят снизить затраты на содержание виртуальных машин.
+
+# Задание 2
+![zadanie-20](https://github.com/user-attachments/assets/cfdbcd5c-0c8e-4e38-a214-3ff079451bd9)
+
+# Задание 3
+![zadanie-300](https://github.com/user-attachments/assets/9e064884-c691-4db9-890e-39f11b835622)
+
+# Задание 4
+![zadanie-40](https://github.com/user-attachments/assets/3df526de-7304-41c4-a349-fdc4592a3cd1)
+
+# Задание 5
+![zadanie-50](https://github.com/user-attachments/assets/04225d16-ad6e-44be-831c-b1a41c746019)
+
+# Задание 6
+![zadanie-60](https://github.com/user-attachments/assets/e1c78713-c48a-4334-84d1-feb3b02d3e4e)
