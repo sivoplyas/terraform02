@@ -30,5 +30,5 @@
 ![zadanie-60](https://github.com/user-attachments/assets/e1c78713-c48a-4334-84d1-feb3b02d3e4e)
 
 # Доработка
-Исправил в файлы: main (NEW).tf и vms_platform (NEW).tf
+Исправил файлы: main (NEW).tf и vms_platform (NEW).tf
 ![zadanie-dorabotka](https://github.com/user-attachments/assets/d1401afd-c34e-45b6-866e-e81607b49e07)
