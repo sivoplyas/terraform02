@@ -28,3 +28,5 @@
 
 # Задание 6
 ![zadanie-60](https://github.com/user-attachments/assets/e1c78713-c48a-4334-84d1-feb3b02d3e4e)
+
+# Доработка
